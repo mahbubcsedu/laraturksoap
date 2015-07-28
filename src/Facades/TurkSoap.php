@@ -1,4 +1,4 @@
-<?php mahbubcsedu\laraturksoap\Facades;
+<?php namespace mahbubcsedu\laraturksoap\Facades;
 /**
  * Created by PhpStorm.
  * User: mahbub
