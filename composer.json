@@ -1,5 +1,5 @@
 {
-    "name": "turksoap-laravel",
+    "name": "mahbubcsedu/turksoap-laravel",
     "description": "Provides a Laravel 5 package to access Amazon Mechanical turk interface",
     "keywords": ["Laravel", "amazon mechanical turk", "turk", "api","amt","mturk"],
     "homepage": "https://github.com/mahbubcsedu/turksoap-laravel",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "mturk4laravel\\TurkSoap\\": "src/"
+            "mahbubcsedu\\TurkSoap\\": "src/"
         }
     },
     "minimum-stability": "dev"
