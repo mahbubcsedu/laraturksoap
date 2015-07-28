@@ -23,7 +23,7 @@ class TurkSoapServiceProvider extends ServiceProvider {
      */
     public function boot()
     {
-        $configPath = __DIR__ . '/../config/turksopa.php';
+        $configPath = __DIR__ . '/../config/turksoap.php';
 
         $config = [ $configPath => config_path('turksoap.php') ];
 
