@@ -1,0 +1,25 @@
+{
+    "name": "turksoap-laravel",
+    "description": "Provides a Laravel 5 package to access Amazon Mechanical turk interface",
+    "keywords": ["Laravel", "amazon mechanical turk", "turk", "api","amt","mturk"],
+    "homepage": "https://github.com/mahbubcsedu/turksoap-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahbubur Rahman",
+            "email": "mahbub2001@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "illuminate/support": "~5",
+        "guzzlehttp/guzzle": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "mturk4laravel\\TurkSoap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
