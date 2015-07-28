@@ -1,4 +1,4 @@
-<?php namespace mturk4laravel\TurkSoap;
+<?php namespace mahbubcsedu\TurkSoap;
 /**
  * Created by PhpStorm.
  * User: mahbub
