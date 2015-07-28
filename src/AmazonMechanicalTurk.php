@@ -1,4 +1,4 @@
-<?php namespace mahbubcsedu\turksoap;
+<?php namespace mahbubcsedu\laraturksoap;
 /**
  * Created by PhpStorm.
  * User: mahbub
