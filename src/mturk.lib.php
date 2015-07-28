@@ -1,4 +1,4 @@
-<?php namespace mahbubcsedu\turksoap-laravel;
+<?php namespace mahbubcsedu\turksoap;
 
 /*************************************************************************
    mTurk PHP API V0.5b
